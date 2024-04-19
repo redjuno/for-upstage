@@ -1,5 +1,5 @@
 def check_available():
-    print('It works!')
+    print('It works!' )
 
 def split_odd(nums=[1,2,3,4]):
     odds = []
